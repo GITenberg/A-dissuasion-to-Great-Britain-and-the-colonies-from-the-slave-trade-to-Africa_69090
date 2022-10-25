@@ -1,5 +1,8 @@
 _repo: A-dissuasion-to-Great-Britain-and-the-colonies-from-the-slave-trade-to-Africa_69090
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69090-h/images/cover.jpg
 creator:
   author:
     agent_name: Swan, James G.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '47926'
     url: http://www.gutenberg.org/2009/agents/47926
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69090#A-dissuasion-to-Great-Britain-and-the-colonies-from-the-slave-trade-to-Africa
 gutenberg_issued: '2022-10-03'
 identifiers:
   gutenberg: '69090'
